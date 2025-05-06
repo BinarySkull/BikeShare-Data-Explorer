@@ -92,23 +92,23 @@ Follow these instructions to get a copy of the project up and running on your lo
 6.  **Restart Option:** After an analysis run, you can choose to restart and explore different filters.
 
 ## 💡 Example Interaction
-Hello! Let's explore some US bikeshare data!
-Enter a city from (Chicago, New York, Washington) that you want to get data about
-chicago
-Ok, Please wait a moment
-Which month do you need the data on?...(all, january , february , ... , june
-may
-Ok, please wait a moment.
-Which day do you need the data on?...(all, monday, tuesday, ... sunday)
-monday
-Ok, Please wait a moment
-Calculating The Most Frequent Times of Travel...
-The most common month is :5
-The most common day of week is :Monday
-The most common start hour is :17
-This took 0.02 seconds.
-Calculating The Most Popular Stations and Trip...
-... (and so on) ...
+- Hello! Let's explore some US bikeshare data!
+- Enter a city from (Chicago, New York, Washington) that you want to get data about
+- chicago
+- Ok, Please wait a moment
+- Which month do you need the data on?...(all, january , february , ... , june
+- may
+- Ok, please wait a moment.
+- Which day do you need the data on?...(all, monday, tuesday, ... sunday)
+- monday
+- Ok, Please wait a moment
+- Calculating The Most Frequent Times of Travel...
+- The most common month is :5
+- The most common day of week is :Monday
+- The most common start hour is :17
+- This took 0.02 seconds.
+- Calculating The Most Popular Stations and Trip...
+- ... (and so on) ...
 
 ## 🙏 Acknowledgements
 
